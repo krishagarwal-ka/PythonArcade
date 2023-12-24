@@ -1,0 +1,20 @@
+# PythonArcade
+https://github.com/krishagarwal-ka/PythonArcade
+
+
+[1]  Run 'pip intall opencv mediapipe pyautogui'
+
+[2]  Download and run 'Jump Detection.py'
+
+[3]  Open a game such as - Chrome Dino, Minecraft, etc.
+
+[4]  Jump in front of your camera to make the character jump.
+
+[5]  To stop the program, select the camera window and press the 'q' key.
+
+
+Disclaimer: This was just a fun project with little practical use.
+
+Author : Krish Agarwal
+https://github.com/krishagarwal-ka
+December 2023
