@@ -1,7 +1,7 @@
 # PythonArcade
 https://github.com/krishagarwal-ka/PythonArcade
 
-[1]  Run 'pip intall opencv mediapipe pyautogui'
+[1]  Run 'pip install opencv-python mediapipe pyautogui'
 
 [2]  Download and run 'Jump Detection.py'
 
